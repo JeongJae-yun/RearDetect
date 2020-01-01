@@ -15,7 +15,7 @@
 - 초음파 센서 거리 탐지 결과에 따른 tkinter 모듈 내의 canvas위의 자동차 그림에 어느 위치 반응인지 보여줌.
 </ol>
 
-[메인 코드](../blob/master/RearDetect.py)
+[메인 코드](blob/master/RearDetect.py)
 
 
 
