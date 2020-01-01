@@ -13,6 +13,5 @@
 - 초음파 센서 거리 탐지 결과에 따른 부저 센서 반응
 - 초음파 센서 거리 탐지 결과에 따른 tkinter 모듈 내의 canvas위의 자동차 그림에 어느 위치 반응인지 보여줌.
 
-[RearDetect.py](#RearDetect.py)
-#RearDetect.py
 
+-코드 (https://github.com/JeongJae-yun/RearDetect/edit/master/RearDetect.py#코드heading)
